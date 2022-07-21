@@ -4,12 +4,19 @@ form {
     border-radius: 10px;
     display: block;
     margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 input,
-select {
+select,
+textarea {
     display: block;
     margin: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 #select {
