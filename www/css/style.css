@@ -22,3 +22,9 @@ textarea {
 input {
     width: 250px;
 }
+
+.error {
+    color: red;
+    text-align: center;
+    font-size: 15px;
+}
